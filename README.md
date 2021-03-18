@@ -1,5 +1,9 @@
 
+<div align="center">
+
 ### Hi! I'm Artem, some info abot me:
+
+</div>
 
 <div align="center" valign="center">
   
