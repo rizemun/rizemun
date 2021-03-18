@@ -11,6 +11,6 @@
 
 <div align="center" width="100%">
   
-  ![dancing](https://media.giphy.com/media/12q7JyfK1UolW0/giphy.gif)
+  ![looking for a way](https://media.giphy.com/media/12q7JyfK1UolW0/giphy.gif)
   
 </div>
