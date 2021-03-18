@@ -1,7 +1,7 @@
 
 <div align="center">
 
-### Hi! I'm Artem, some info abot me:
+### Hi! I'm Artem, some info about me:
 
 </div>
 
