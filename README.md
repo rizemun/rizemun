@@ -7,9 +7,9 @@
 
 <div align="center" valign="center">
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=rizemun&theme=dracula&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats-nine-puce-38.vercel.app/api?username=rizemun&theme=dracula&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rizemun&layout=compact&theme=dracula)  
+![Top Languages Card](https://github-readme-stats-nine-puce-38.vercel.app/api/top-langs/?username=rizemun&layout=compact&theme=dracula&count_private=true)  
   
 </div>
 
